@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Utility
 #excerpt: 'Utility-arXiv'
 date: 2019-11-12
-#venue: 'arXiv'
+venue: 'arXiv'
 #paperurl: 'https://arxiv.org/pdf/1911.09053'
 #citation: 'Shen, W., Wei, Z., Huang, S., Zhang, B., & Zhang, Q. (2019). Utility analysis of network architectures for 3d point cloud processing. arXiv preprint arXiv:1911.09053.'
 ---
