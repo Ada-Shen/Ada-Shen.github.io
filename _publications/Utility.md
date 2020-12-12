@@ -3,8 +3,8 @@ title: "Utility Analysis of Network Architectures for 3D Point Cloud Processing"
 collection: publications
 permalink: /publication/Utility
 #excerpt: 'Utility-arXiv'
-date: 2020-11-12
-venue: 'arXiv'
+date: 2019-11-12
+#venue: 'arXiv'
 #paperurl: 'https://arxiv.org/pdf/1911.09053'
 #citation: 'Shen, W., Wei, Z., Huang, S., Zhang, B., & Zhang, Q. (2019). Utility analysis of network architectures for 3d point cloud processing. arXiv preprint arXiv:1911.09053.'
 ---
@@ -12,4 +12,4 @@ Abstract. In this paper, we diagnose deep neural networks for 3D point cloud pro
 
 [Download paper here](https://arxiv.org/pdf/1911.09053)
 
-Recommended citation: Shen W., Zhang B., Huang S., Wei Z., Zhang Q.: 3D-Rotation-Equivariant Quaternion Neural Networks. In: Proceedings of the European Conference on Computer Vision (ECCV). pp. 531-547 (2020)
+Recommended citation: Shen, W., Wei, Z., Huang, S., Zhang, B., & Zhang, Q.: Utility analysis of network architectures for 3d point cloud processing. arXiv preprint arXiv:1911.09053. (2019)
