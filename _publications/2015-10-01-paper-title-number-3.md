@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+title: "Utility Analysis of Network Architectures for 3D Point Cloud Processing"
+excerpt: 'Abstract. In this paper, we diagnose deep neural networks for 3D point cloud processing to explore utilities of different network architectures. We propose a number of hypotheses on the effects of specific network architectures on the representation capacity of DNNs. In order to prove the hypotheses, we design five metrics to diagnose various types of DNNs from the following perspectives, information discarding, information concentration, rotation robustness, adversarial robustness, and neighborhood inconsistency. We conduct comparative studies based on such metrics to verify the hypotheses. We further use the verified hypotheses to revise architectures of existing DNNs to improve their utilities. Experiments demonstrate the effectiveness of our method.'
+year: 2020
+paperurl: 'https://arxiv.org/pdf/1911.09053'
+citation: 'Shen, W., Wei, Z., Huang, S., Zhang, B., & Zhang, Q. (2019). Utility analysis of network architectures for 3d point cloud processing. arXiv preprint arXiv:1911.09053.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Abstract. In this paper, we diagnose deep neural networks for 3D point cloud processing to explore utilities of different network architectures. We propose a number of hypotheses on the effects of specific network architectures on the representation capacity of DNNs. In order to prove the hypotheses, we design five metrics to diagnose various types of DNNs from the following perspectives, information discarding, information concentration, rotation robustness, adversarial robustness, and neighborhood inconsistency. We conduct comparative studies based on such metrics to verify the hypotheses. We further use the verified hypotheses to revise architectures of existing DNNs to improve their utilities. Experiments demonstrate the effectiveness of our method.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://arxiv.org/pdf/1911.09053)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Shen, W., Wei, Z., Huang, S., Zhang, B., & Zhang, Q. (2019). Utility analysis of network architectures for 3d point cloud processing. arXiv preprint arXiv:1911.09053.
