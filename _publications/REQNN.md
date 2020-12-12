@@ -1,7 +1,7 @@
 ---
 title: "3D-Rotation-Equivariant Quaternion Neural Networks"
 excerpt: 'REQNN-ECCV'
-date: 2020
+date: 2020-11-12
 venue: 'ECCV'
 ---
 Abstract. This paper proposes a set of rules to revise various neural networks for 3D point cloud processing to rotation-equivariant quater- nion neural networks (REQNNs). We find that when a neural network uses quaternion features, the network feature naturally has the rotation- equivariance property. Rotation equivariance means that applying a spe- cific rotation transformation to the input point cloud is equivalent to ap- plying the same rotation transformation to all intermediate-layer quater- nion features. Besides, the REQNN also ensures that the intermediate- layer features are invariant to the permutation of input points. Compared with the original neural network, the REQNN exhibits higher rotation robustness.
