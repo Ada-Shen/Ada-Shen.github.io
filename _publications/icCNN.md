@@ -10,6 +10,3 @@ venue: 'IJCAI'
 ---
 Abstract. The reasonable definition of semantic interpretability presents the core challenge in explainable AI. This paper proposes a method to modify a traditional convolutional neural network (CNN) into an interpretable compositional CNN, in order to learn filters that encode meaningful visual patterns in intermediate convolutional layers. In a compositional CNN, each filter is supposed to consistently represent a specific compositional object part or image region with a clear meaning. The compositional CNN learns from image labels for classification without any annotations of parts or regions for supervision. Our method can be broadly applied to different types of CNNs. Experiments have demonstrated the effectiveness of our method.
 
-#[Download paper here](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650528.pdf)
-
-#Recommended citation: Shen W., Zhang B., Huang S., Wei Z., Zhang Q.: 3D-Rotation-Equivariant Quaternion Neural Networks. In: Proceedings of the European Conference on Computer Vision (ECCV). pp. 531-547 (2020)
