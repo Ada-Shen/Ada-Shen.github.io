@@ -12,4 +12,4 @@ Abstract. In this paper, we diagnose deep neural networks for 3D point cloud pro
 
 [Download paper here](https://arxiv.org/pdf/1911.09053)
 
-Recommended citation: Shen, W., Wei, Z., Huang, S., Zhang, B., Chen P., Zhao P., & Zhang, Q.: Utility analysis of network architectures for 3d point cloud processing. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) (2021)
+Recommended citation: Shen, W., Wei, Z., Huang, S., Zhang, B., Chen P., Zhao P., & Zhang, Q.: Verifiability and Predictability: Interpreting Utilities of Network Architectures for Point Cloud Processing. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) (2021)
