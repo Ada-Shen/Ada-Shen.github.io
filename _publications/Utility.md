@@ -1,5 +1,5 @@
 ---
-title: "Verifiability and Predictability: Interpreting Utilities of Network Architectures \\for Point Cloud Processing"
+title: "Verifiability and Predictability: Interpreting Utilities of Network Architectures for Point Cloud Processing"
 collection: publications
 permalink: /publication/Utility
 #excerpt: 'Utility-CVPR'
