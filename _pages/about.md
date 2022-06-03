@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Wen Shen. I am a Ph.D. candidate at Tongji University. Before that, I received the B.S. degree in information security at the Tongji University, China, in 2016.
+My name is Wen Shen. I am currently a postdoctoral research associate at Shanghai Jiao Tong University. Before that, I received the Ph.D. degree in 	Computer Science and Technology at Tongji University, China, in 2022.
 
 Research Interests
 ======
@@ -16,6 +16,10 @@ My research interests range across computer vision, machine learning, 3D point c
 
 Publications
 ======
+* **Interpreting Representation Quality of DNNs for 3D Point Cloud Processing**, &emsp;NeurIPS 2021   
+    **Wen Shen\***, Qihan Ren, Dongrui Liu, Quanshi Zhang 
+    Download [pdf]([https://arxiv.org/abs/1911.09040](https://proceedings.neurips.cc/paper/2021/file/4a3e00961a08879c34f91ca0070ea2f5-Paper.pdf))
+    
 * **Interpretable Compositional Convolutional Neural Networks**, &emsp;IJCAI 2021  
     **Wen Shen\***, Zhihua Wei\*, Shikun Huang, Binbin Zhang, Jiaqi Fan, Ping Zhao, Quanshi Zhang  
     Download [pdf](https://arxiv.org/abs/2107.04474)
