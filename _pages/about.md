@@ -18,7 +18,7 @@ Publications
 ======
 * **Interpreting Representation Quality of DNNs for 3D Point Cloud Processing**, &emsp;NeurIPS 2021   
     **Wen Shen\***, Qihan Ren, Dongrui Liu, Quanshi Zhang 
-    Download [pdf](https://arxiv.org/abs/1911.09040](https://proceedings.neurips.cc/paper/2021/file/4a3e00961a08879c34f91ca0070ea2f5-Paper.pdf)
+    Download [pdf](https://proceedings.neurips.cc/paper/2021/file/4a3e00961a08879c34f91ca0070ea2f5-Paper.pdf)
     
 * **Interpretable Compositional Convolutional Neural Networks**, &emsp;IJCAI 2021  
     **Wen Shen\***, Zhihua Wei\*, Shikun Huang, Binbin Zhang, Jiaqi Fan, Ping Zhao, Quanshi Zhang  
