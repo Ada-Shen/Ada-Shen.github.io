@@ -10,7 +10,7 @@ locale                   : "Shanghai, China"
 title                    : "Wen Shen"
 title_separator          : "-"
 name                     : &name "Wen Shen"
-description              : &description "Postdoctoral research associate at Shanghai Jiao Tong University. Research field is computer vision."
+description              : &description "personal description"
 url                      : https://ada-shen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ada-shen/ada-shen.github.io"
@@ -66,8 +66,7 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # D
- erson or Organization (defaults to Person)
+  type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
@@ -87,7 +86,7 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"https://scholar.google.com/citations?hl=zh-CN&user=B3zNxxcAAAAJ"
   email            : "wen_shen@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -159,7 +158,6 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
-
 incremental: false
 
 
