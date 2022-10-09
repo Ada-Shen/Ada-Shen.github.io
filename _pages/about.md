@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Wen Shen. I am currently a postdoctoral research associate at Shanghai Jiao Tong University. Before that, I received the Ph.D. degree in 	Computer Science and Technology at Tongji University, China, in 2022.
+I am currently a postdoctoral research associate at Shanghai Jiao Tong University. Before that, I received the Ph.D. degree in 	Computer Science and Technology at Tongji University, China, in 2022.
 
 Research Interests
 ======
